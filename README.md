@@ -1,4 +1,4 @@
-# Here i Am Building a LLM from scratch using Pytorch I took dataset from notebooks and articles to train LLM
+## Here i Am Building a LLM like chatGPT from scratch for educational purposes using Pytorch I took dataset from notebooks and articles to train LLM
 
 # we will first start with Data Preprocessing and Data Sampling 
  
@@ -8,3 +8,6 @@
  * Step3: Encode TokenIDS into Vector Representations
 
  * Implemented Tokenizer class to do all the step as shown in above and also to decode tokenids into text and i also special text tokens like <|UNK|> and <|EndofText|> which helps us to process input text when it is not present in bag of words
+
+ # Create Input - Target Pairs
+
