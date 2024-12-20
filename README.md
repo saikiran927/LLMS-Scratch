@@ -11,3 +11,7 @@
 
  # Create Input - Target Pairs
 
+ * we take token Ids of tokens and create Input and Outpairs for the entire dataset with the help of Dataset and DataLoader in PyTorch.
+ * Dataset and DataLoader converts input and output pairs into pytorch tensors returns the Pytorch tensors as output. 
+
+
