@@ -47,4 +47,4 @@ There are 4 types of Attention mechanisms.
 * 4) Multi-Head Attention
 
 # Simplified Self Attention
-A simplified attention is a simplified of 
+A simplified attention is a simplified attention mechanism
